@@ -1,0 +1,12 @@
+# Start with importing the usual stuff
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import scipy.stats as stats
+import math
+from matplotlib.pyplot import subplots
+import statsmodels.api as sm
+from sklearn.model_selection import train_test_split 
+
+pd.options.mode.copy_on_write = True
